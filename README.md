@@ -1,1 +1,1 @@
-# python-binarysearch
+search by binary split
